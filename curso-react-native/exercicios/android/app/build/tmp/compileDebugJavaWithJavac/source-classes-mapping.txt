@@ -1,0 +1,14 @@
+com/exercicios/MainActivity.java
+ com.exercicios.MainActivity
+com/exercicios/ReactNativeFlipper.java
+ com.exercicios.ReactNativeFlipper
+ com.exercicios.ReactNativeFlipper$1
+ com.exercicios.ReactNativeFlipper$2
+ com.exercicios.ReactNativeFlipper$2$1
+com/exercicios/MainApplication.java
+ com.exercicios.MainApplication
+ com.exercicios.MainApplication$1
+com/exercicios/BuildConfig.java
+ com.exercicios.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
